@@ -100,7 +100,7 @@ export default function ComponentsPage() {
                   <div className='bg-primary-50 flex h-10 w-10 items-center justify-center rounded text-black'>
                     50
                   </div>
-                  <div className='bg-primary-100 flex h-10 w-10 items-center justify-center rounded text-black'>
+                  <div className='bg-light-blue flex h-10 w-10 items-center justify-center rounded text-black'>
                     100
                   </div>
                   <div className='bg-primary-200 flex h-10 w-10 items-center justify-center rounded text-black'>

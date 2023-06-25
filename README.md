@@ -1,7 +1,5 @@
 ### 1. Install dependencies
 
-It is encouraged to use **yarn** so the husky hooks can work properly.
-
 ```bash
 yarn install
 ```
